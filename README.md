@@ -96,16 +96,10 @@ Open issues or pull requests for feature requests, bug fixes, or improvements.
 
 ---
 
-## 📄 License
-
-[MIT License](LICENSE) © 2025 Raghu Vamsi
-
----
-
 ## 📫 Contact
 
 For help or collaboration, reach out via GitHub issues or email:  
-<raghuvamsibolem@gmail.com>
+<bhavyachillara413m@gmail.com>
 
 ---
 
