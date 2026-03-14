@@ -1,0 +1,15 @@
+Flask
+Werkzeug
+MarkupSafe
+python-dotenv
+langchain
+langchain-groq
+langchain-huggingface
+sentence-transformers
+transformers
+faiss-cpu
+PyMuPDF
+numpy
+pandas
+scikit-learn
+Jinja2
